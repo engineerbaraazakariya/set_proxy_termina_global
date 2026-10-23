@@ -1,0 +1,1 @@
+# set_proxy_termina_global
